@@ -1,4 +1,4 @@
-# ProLlama - A Secure and Private Local AI Chatbot
+# ProLlama - A Simple Local AI Chatbot Interface
 
 ProLlama is a chatbot interface written in Python using the Streamlit library. It connects to your local Llama 3 model through Ollama, ensuring privacy and security.
 

@@ -3,7 +3,7 @@ import ollama
 import time
 
 
-def askllm(message, model='llama3'):
+def askllm(message, model='llama3.1'):
     try:
         response = ollama.chat(model=model, messages=[{'role': 'user', 'content': message}])
         return response['message']['content']

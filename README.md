@@ -1,6 +1,6 @@
 # ProLlama - A Simple Local AI Chatbot Interface
 
-ProLlama is a chatbot interface written in Python using the Streamlit library. It connects to your local Llama 3 model through Ollama, ensuring privacy and security.
+ProLlama is a chatbot interface written in Python using the Streamlit library. It connects to your local Llama 3.1 model through Ollama, ensuring privacy and security.
 
 ![screenshot](screenshot.png)
 
@@ -15,7 +15,7 @@ ProLlama is a chatbot interface written in Python using the Streamlit library. I
 
 3. Download and run the Llama 3 model:
    ```
-   ollama run llama3
+   ollama run llama3.1
    ```
 ## Running ProLlama with Python
 

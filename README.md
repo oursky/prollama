@@ -6,7 +6,7 @@ This project is a chatbot example written in Python using the Streamlit library.
 
 ## Prerequisites
 
-1. Install Python 3:
+1. Install Python 3 (using brew on MacOS):
    ```
    brew install python3
    ```
@@ -17,7 +17,7 @@ This project is a chatbot example written in Python using the Streamlit library.
    ```
    ollama run llama3.2
    ```
-## Running ProLlama with Python
+## Run with Python
 
 ### Set Up Environment
 
@@ -39,7 +39,8 @@ This project is a chatbot example written in Python using the Streamlit library.
 
 ### Start the Chatbot
 
-1. Launch App:
-   ```
-   streamlit run app.py
-   ```
+```
+streamlit run app.py
+```
+
+Done!
